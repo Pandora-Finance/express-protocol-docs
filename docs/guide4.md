@@ -133,7 +133,6 @@ As we have pasted the code, now our frontend will look something like this:
   Paste the code below in main.js file.
 
   ```javascript
-
 //Import createPandoraExpressSDK from SDK
   const { createPandoraExpressSDK } = require("pandora-express");
   const pandoraSDK = createPandoraExpressSDK();
@@ -175,8 +174,6 @@ const init = async () => {
 // const tokenIdNFT = 17;
 const nftContractAddress = document.getElementById("nftContractAddress");
 const tokenId = document.getElementById("nftTokenId")
-
-
   ```  
 
   We have minted a NFT using the SDK now, we can approove the NFT by using approveNFT function of the SDK.
@@ -234,7 +231,6 @@ createLoan = async () => {
         console.log(err);
       });
 };
-
 ```
 Now we have created a loan which takes NFT Contract address, NFT Token id, Loan Amount(in wei), Intrest Amount(in wei), Time Period(in days), Max time period(in days).
 
