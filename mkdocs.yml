@@ -25,6 +25,7 @@ nav:
                               - "Execute Bid": sdk/erc721/PublicCollection/9_ExecutingBid.md
                               - "Withdraw Bid": sdk/erc721/PublicCollection/10_WithdrawBid.md
                               - "Cancel Sale": sdk/erc721/PublicCollection/11_CancellingSale.md
+                              - "Token URI": sdk/erc721/PublicCollection/12_TokenURI.md
                       - "Personal Collection":
                               - "Create Collection": sdk/erc721/PersonalCollection/1_PersonalCollection.md
                               - "Mint": sdk/erc721/PersonalCollection/2_Minting.md
@@ -37,6 +38,7 @@ nav:
                               - "Execute": sdk/erc721/PersonalCollection/9_ExecutingBid.md
                               - "Withdraw": sdk/erc721/PersonalCollection/10_WithdrawingBid.md
                               - "Cancel Sale": sdk/erc721/PersonalCollection/11_CancellingSale.md
+                              - "Token URI": sdk/erc721/PersonalCollection/12_TokenURICollection.md
               - ERC1155:
                       - "Public Collection":
                               - "Overview": sdk/erc1155/PublicCollection/1_PNDC.md
