@@ -112,6 +112,7 @@ nav:
                 NFT-Drop Dapp: guide2.md
                 NFT-Ticket Booking Dapp: guide3.md
                 NFT-Lending and Borrowing Dapp: guide4.md
+      - **"ERC404"** : ERC404.md
 markdown_extensions:
       - attr_list
       - pymdownx.highlight
